@@ -32,4 +32,6 @@ The data is clustered into groups where the viruses are having similar character
 	-> As the dataset has 3 attributes, we can visualize it using 3D plots.
 	-> A 3D plot of the clusters created is stored as 'kmeans_clusters_plot.png' in the current working directory after successful execution.
 	-> A 3D plot of the original dataset is stored as 'original_dataset_plot.png' in the current working directory after successful execution.
-
+	
+![alt text](https://github.com/soumyaporel/Coronavirus-Data-Clustering/blob/main/plots/original_dataset_plot.png?raw=true)
+![alt text](https://github.com/soumyaporel/Coronavirus-Data-Clustering/blob/main/plots/kmeans_clusters_plot.png?raw=true)
